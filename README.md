@@ -39,8 +39,8 @@ Save the trained model, export it if needed, and deploy it for real-world use.
 
 ## PROGRAM
 
-### Name: SWATHI D
-### Register Number: 212222230154
+### Name: SUJITHRA B K N
+### Register Number: 212222230153
 
 ```
 class PeopleClassifier(nn.Module):
@@ -84,24 +84,24 @@ def train_model(model,train_loader,criterion,optimizer,epochs):
 
 ## Dataset Information
 
-![421906194-98829171-025b-41e4-b3e8-6f08aed6da4c](https://github.com/user-attachments/assets/b7a68e28-f139-4091-a821-e8a260a5590a)
-
+![image](https://github.com/user-attachments/assets/38c113f6-5b8e-48ea-873e-b399cbed7d52)
 
 ## OUTPUT
 
 ### Confusion Matrix
 
-![image](https://github.com/user-attachments/assets/34bdc59f-956e-4c81-8c39-f94ca1e87c86)
-
+![download](https://github.com/user-attachments/assets/8c715340-8cbe-46ed-be87-51ea8c086ecc)
 
 ### Classification Report
 
-![image](https://github.com/user-attachments/assets/6e810645-ff55-4ed9-9f6f-003d72236186)
+![image](https://github.com/user-attachments/assets/6f5ba60e-bbb0-48fe-af01-f800bd064d88)
+
 
 
 ### New Sample Data Prediction
 
-![image](https://github.com/user-attachments/assets/86774c4a-9554-47a8-8037-8fa091c7c601)
+![image](https://github.com/user-attachments/assets/837d1fd4-02e3-4129-9564-9ab8fe94400c)
+
 
 
 
